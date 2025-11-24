@@ -1,6 +1,6 @@
 <h1 align="center"> Haluuuu there 👋  </h1>
 
-<h4 align="center">📚 I am a 3rd-year Information Technology Student at USJ-R.</h4>
+<h4 align="center">📚 I am a 4th-year Information Technology Student at USJ-R.</h4>
 <h4 align="center">🌱 I am currently a work in progress and learning every step of the way while trying to do better.</h4>
 
 
